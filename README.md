@@ -60,7 +60,7 @@ This project demonstrates the integration of Stripe payment in a Flutter app usi
 1. **Install the Stripe package**:
    Add the Stripe package to your `pubspec.yaml` file:
    ```yaml
-   stripe_payment: ^1.0.0
+   flutter_stripe 11.1.0 
    ```
 
 2. **Initialize Stripe**:
