@@ -1,4 +1,16 @@
+<p>
+<img src="https://github.com/user-attachments/assets/72aec46f-6a43-47b5-9386-8310d0fd0709" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/84bab6a5-0b3b-4e92-9fd7-eef3008de4b5" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%">  <img src="https://github.com/user-attachments/assets/9995acb3-208c-42ae-9c65-5f7a0e5114f9" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" 
+    width="30%">
+  </p>
+<p>
+<img src="https://github.com/user-attachments/assets/7f78bda1-a3e1-4329-af5f-f55a533c4404" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/b3b27d0c-7d61-4112-b592-2f18558412c5" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+  </p>
+
+
 # Stripe Payment Integration
+
 
 This project demonstrates the integration of Stripe payment in a Flutter app using GetX state management. It covers all the essential steps to implement secure payment processing with Stripe in a Flutter application.
 
